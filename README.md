@@ -1,4 +1,5 @@
-#A playlist party-game!
+# A playlist party-game!
+
 Create a co-op playlist queue and guess Who the F#&%$!~@K queued that awful track you just heard
 
 ## Local setup for development
